@@ -6,6 +6,7 @@
 <script src="{{ '/assets/lib/leaflet/leaflet.fusesearch.js' | relative_url }}"></script>{% endif %}
 {% if site.data.theme.map-cluster == true %}<script src="{{ '/assets/lib/leaflet/leaflet.markercluster.js' | relative_url }}"></script>{% endif %}
 {% if site.data.theme.map-search == true and site.data.theme.map-cluster == true %}<script src="{{ '/assets/lib/leaflet/leaflet.markercluster.freezable.js' | relative_url }}"></script>{% endif %}
+<script src="{{ '/assets/js/idfg_administrative_regions.js' | relative_url }}"></script>
 
 <script>
 (function(){
@@ -54,6 +55,14 @@
     L.control.layers(baseMaps).addTo(map);
     /* load base map */
     {{ site.data.theme.map-base | default: 'Esri_WorldStreetMap' }}.addTo(map);
+
+    /* add boundary polygons to map */
+    function boundaryPopup(feature,layer) {
+        var browseLink = "{{ '/browse.html' | relative_url }}#" + feature.properties.NAME;
+        var boundaryTemplate = `<h3>${feature.properties.NAME}</h3><div class="my-4 text-center"><a href="${browseLink}" class="btn btn-sm btn-outline-secondary">View Related Research</a></div>`;
+        layer.bindPopup(boundaryTemplate);
+    }
+    L.geoJson(admin_regions, { onEachFeature: boundaryPopup }).addTo(map);
 
     {% if site.data.theme.map-search == true %}
     /* add search, https://github.com/naomap/leaflet-fusesearch */
