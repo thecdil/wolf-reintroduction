@@ -12,6 +12,18 @@
         
         <div class="collapse navbar-collapse" id="page-nav">
             <ul class="navbar-nav me-auto">
+                <li class="nav-item">
+                    <a class="nav-link{% if page.url == '/' %} active{% endif %}" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+                </li>
+                <li class="nav-item dropdown">  
+                    {%- assign essayStubs = site.essays | map: 'url' -%}
+                    <a class="nav-link dropdown-toggle{% if essayStubs contains page.url %} active{% endif %}" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Essay</a>
+                    <div class="dropdown-menu dropdown-menu-dark">
+                        {% for e in site.essays %}
+                        <a class="dropdown-item {% if page.url == e.url %}active{% endif %}" href="{{ e.url | relative_url }}">{{ e.title }}</a>
+                        {% endfor %}
+                    </div>
+                </li>
                 {%- assign navItems = site.data.config-nav | where_exp: 'item', 'item.dropdown_parent == nil' -%} 
                 {% for nav in navItems %}
                 {% if nav.stub %}
@@ -32,8 +44,6 @@
                 {% endif %}
                 {%- endfor -%}
             </ul>
-            
-            {% include nav-search-lunr.html %}
             
         </div>
     </div>
