@@ -10,24 +10,22 @@ credits: true
 
 {% include feature/jumbotron.html objectid="wolf_064" %} 
 
-{% include feature/nav-menu.html sections="About CollectionBuilder SA;About the About Page" %}
+{% include feature/nav-menu.html sections="The Project;About the About Page" %}
 
-## About CollectionBuilder CSV
+## The Project
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+“Wolf Reintroduction in Idaho: A Multimodal Retelling” was created by Flori Tulli for her MA graduate non-thesis in 2022/2023 with the support of CDIL. 
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+{% include feature/image.html objectid="https://cdil.lib.uidaho.edu/wolf-reintroduction/objects/pose_with_final_collage.jpg" width="75" alt="Flori Tully with her final collage" caption="A photo of Flori Tully with her final collage"%}
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
+This multimodal project is comprised of the physical collage titled “Wolf Reintroduction: 1995-2023,” an essay with compilation videos showing the process behind this project, and a collection of over 60 referenced sources about the history of wolf reintroduction in Idaho. 
 
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
+The goal of both the art piece and this website is to show viewers the various dimensions surrounding the wolf controversy: a coalescence of regional viewpoints and events stemming from the initial release of wolves in 1995. 
 
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
+## The Creator
 
-{% include feature/image.html objectid="demo_001" width="75" %} 
+Flori Tulli is a University of Idaho graduate student in English with an emphasis in the Environmental Humanities. She has always been fascinated by ecotones, or places where human and nonhuman elements intersect and interact. 
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+{% include feature/image.html objectid="https://cdil.lib.uidaho.edu/wolf-reintroduction/objects/biography_photo.jpg" width="75" alt="Flori Tully in the Palouse" caption="A photo of Flori Tully amidst the Palouse"%}
+
+Wolf reintroduction in the Pacific Northwest is an example of such process. Her investigation of this topic focuses on the interconnectivity of historical, sociological, philosophical and ecological discourses surrounding wolf presence in Idaho. Information accessibility is also the forefront of her concern. With these objectives in mind, she has created a multimodal project to catalyze conversation and investigation about wolf reintroduction. 
