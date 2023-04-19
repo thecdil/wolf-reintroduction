@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="wolf_064" %} 
 
-{% include feature/nav-menu.html sections="The Project;About the About Page" %}
+{% include feature/nav-menu.html sections="The Project;The Creator" %}
 
 ## The Project
 
