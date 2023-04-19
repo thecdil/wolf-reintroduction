@@ -55,6 +55,12 @@ organization-link: https://cdil.lib.uidaho.edu/
 organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
 organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
 
+# Essay collection
+collections:
+  essays:
+    sort_by: order
+    output: true
+
 ##########
 # GOOGLE SERVICES [optional!]
 #
