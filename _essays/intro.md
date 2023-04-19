@@ -1,6 +1,7 @@
 ---
 title: Intro
 order: 1
+byline: by Flori Tulli
 layout: essay
 permalink: /intro.html
 ---
