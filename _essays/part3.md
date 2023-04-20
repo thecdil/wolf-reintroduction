@@ -1,5 +1,5 @@
 ---
-title: "Part 3 of the Collage Process: Designing the Wolves"
+title: "Designing the Wolves"
 order: 5
 byline: by Flori Tulli
 layout: essay
