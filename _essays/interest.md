@@ -14,7 +14,11 @@ Despite my singular experience, sustainability is a forefront of my interests, a
 
 The following semester, I learned more about the ecology of wolves and how art can convey complex ecological relationships. This area of study inspired me to create a fountain titled “Jaws of Life” for David Roon’s ENVS 504: Art & Ecology, which explored trophic cascade and interconnectivity of wolves, deer, beavers, and water tables. 
 
-{% include feature/video.html objectid="https://youtube.com/shorts/_cLJId8hwv4" width="50" caption="'Jaws of Life' video" %}
+<figure>
+<div class="iframe-wrapper">
+     <iframe src="https://www.youtube.com/embed/_cLJId8hwv4" frameborder="0" allowfullscreen></iframe>
+</div>
+</figure>
 
 During the Fall 2022 semester, I took Aleta Quinn’s class, ENVS 552: Environmental Philosophy, where we were introduced to the different perspectives and value systems pertaining to natural resources, including the presence of megafauna. 
 
