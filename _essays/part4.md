@@ -1,6 +1,6 @@
 ---
 title: "Designing the Final Layer"
-order: 5
+order: 6
 byline: by Flori Tulli
 layout: essay
 permalink: /part4.html
