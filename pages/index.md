@@ -14,4 +14,4 @@ The goal of both the art piece and this website is to show viewers the various d
 
 <br>
 
-<a id="toc-box" class="py-3 px-5 display-6 fs-2 text-white bg-dark bg-opacity-75 rounded" href="{{ '/journey.html' | relative_url }}" >Read the Essay &raquo;</a>
+{% include feature/button.html text="Read the Essay" link="https://thecdil.github.io/wolf-reintroduction/journey.html" color="success" %}
