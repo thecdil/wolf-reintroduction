@@ -1,5 +1,5 @@
 ---
-title: Interest in Wolf Introduction
+title: Interest in Wolf Reintroduction
 order: 2
 byline: by Flori Tulli
 layout: essay
