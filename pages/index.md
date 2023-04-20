@@ -11,3 +11,7 @@ permalink: /
 This multimodal project is comprised of the physical collage titled "Wolf Reintroduction: 1995-2023," an essay with compilation videos showing the process behind this project, and a collection of over 60 referenced sources about the history of wolf reintroduction in Idaho. 
 
 The goal of both the art piece and this website is to show viewers the various dimensions surrounding the wolf controversy: a coalescence of regional viewpoints and events stemming from the initial release of wolves in 1995.
+
+<br>
+
+<a id="toc-box" class="py-3 px-5 display-6 fs-2 text-white bg-dark bg-opacity-75 rounded" href="{{ '/journey.html' | relative_url }}" >Read the Essay &raquo;</a>
