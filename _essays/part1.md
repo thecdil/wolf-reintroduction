@@ -1,5 +1,5 @@
 ---
-title: "Part 1 of the Collage Process: Designing the Base"
+title: "Designing the Base"
 order: 3
 byline: by Flori Tulli
 layout: essay

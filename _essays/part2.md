@@ -1,5 +1,5 @@
 ---
-title: "Part 2 of the Collage Process: Designing the Regions"
+title: "Designing the Regions"
 order: 4
 byline: by Flori Tulli
 layout: essay
