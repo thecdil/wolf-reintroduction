@@ -30,7 +30,7 @@
     {%- capture image_src -%}{{ figure.object_location | default: figure.image_small | relative_url }}{% endcapture %}
 {% endif %}
 <figure class="fullwidth my-5">   
-    <a href="{{ image_link | default: image_src }}" title="{{ image_alt | escape }}">
+    <a href="{{ image_link | default: image_src }}" title="{{ image_alt | escape }}" target="_blank" rel="noopener">
         <img class="figure-img img-fluid rounded" alt="{{ image_alt | default: image_caption | escape }}" src="{{ image_src }}" {% if include.style %}style="{{ include.style }}"{% endif %}>
     </a>
     {% unless include.caption == false %}<figcaption class="h4 figure-caption float-none mb-5">{% if i contains "/" %}{{ image_caption }}{% else %}<a href="{{ image_link }}">{{ image_caption }}</a>{% endif %}</figcaption>{%- endunless -%}

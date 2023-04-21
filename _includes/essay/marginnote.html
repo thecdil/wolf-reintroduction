@@ -38,7 +38,7 @@
 <label for="{{ include.id | default: include.objectid | slugify }}" class="margin-toggle">&#8853;</label>
 <input type="checkbox" id="{{ include.id | default: include.objectid | slugify }}" class="margin-toggle">
 <span class="marginnote">
-    {% if include.objectid %}<a href="{{ image_link | default: image_src }}" title="{{ image_alt | escape }}">
+    {% if include.objectid %}<a href="{{ image_link | default: image_src }}" title="{{ image_alt | escape }}" target="_blank" rel="noopener">
         <img alt="{{ image_alt | default: text | escape }}" src="{{ image_src }}" {% if include.style %}style="{{ include.style }}"{% endif %} >
     </a>
     <br>

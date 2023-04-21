@@ -33,7 +33,7 @@
     <label for="{{ include.objectid | slugify }}" class="margin-toggle">&#8853;</label>
     <input type="checkbox" id="{{ include.objectid | slugify }}" class="margin-toggle"/>
     {% unless include.caption == false %}<span class="marginnote">{% if i contains "/" %}{{ image_caption }}{% else %}<a href="{{ image_link }}">{{ image_caption }}</a>{% endif %}</span> {%- endunless -%} 
-    <a href="{{ image_link | default: image_src }}" title="{{ image_alt | escape }}">
+    <a href="{{ image_link | default: image_src }}" title="{{ image_alt | escape }}" target="_blank" rel="noopener">
         <img class="figure-img img-fluid rounded" alt="{{ image_alt | default: image_caption | escape }}" src="{{ image_src }}" {% if include.style %}style="{{ include.style }}"{% endif %}>
     </a>
 </figure>
