@@ -12,4 +12,4 @@ This multimodal project is comprised of the physical collage titled "Wolf Reintr
 
 The goal of both the art piece and this website is to show viewers the various dimensions surrounding the wolf controversy: a coalescence of regional viewpoints and events stemming from the initial release of wolves in 1995.
 
-{% include feature/button.html text="Read the Essay" link="https://thecdil.github.io/wolf-reintroduction/journey.html" color="success" %}
+[Read the Essay](https://thecdil.github.io/wolf-reintroduction/journey.html){:.btn .btn-lg .btn-outline-dark-green .display-4}
