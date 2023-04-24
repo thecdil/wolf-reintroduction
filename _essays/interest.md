@@ -1,7 +1,6 @@
 ---
 title: Interest in Wolf Reintroduction
 order: 2
-byline: by Flori Tulli
 layout: essay
 permalink: /interest.html
 ---

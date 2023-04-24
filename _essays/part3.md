@@ -1,7 +1,6 @@
 ---
 title: "Designing the Wolves"
 order: 5
-byline: by Flori Tulli
 layout: essay
 permalink: /part3.html
 ---

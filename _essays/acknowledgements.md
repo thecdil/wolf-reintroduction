@@ -1,7 +1,6 @@
 ---
 title: Acknowledgements
 order: 8
-byline: by Flori Tulli
 layout: essay
 permalink: /acknowledgements.html
 ---

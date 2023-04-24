@@ -1,7 +1,6 @@
 ---
 title: "Designing the Regions"
 order: 4
-byline: by Flori Tulli
 layout: essay
 permalink: /part2.html
 ---

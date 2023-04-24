@@ -1,7 +1,6 @@
 ---
 title: Branching Out
 order: 7
-byline: by Flori Tulli
 layout: essay
 permalink: /branching-out.html
 ---

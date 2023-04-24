@@ -1,7 +1,6 @@
 ---
 title: Sources
 order: 9
-byline: by Flori Tulli
 layout: essay
 permalink: /sources.html
 ---

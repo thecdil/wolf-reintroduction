@@ -1,7 +1,6 @@
 ---
 title: "Designing the Base"
 order: 3
-byline: by Flori Tulli
 layout: essay
 permalink: /part1.html
 ---
