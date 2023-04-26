@@ -5,9 +5,7 @@ layout: essay
 permalink: /part1.html
 ---
 
-<div class="iframe-wrapper">
-     <iframe src="https://www.youtube.com/embed/Flzn3uMWs2w" frameborder="0" allowfullscreen></iframe>
-</div>
+{% include essay/video.html objectid="https://youtu.be/Flzn3uMWs2w" caption=false width="full" %}
 
 Creating an art piece and website was definitely taking the road less traveled by—and gratefully one supported by my advisors and mentors. Throughout this process, there were ups and downs, twists and turns, disorientation, and eventual clarity. Initially, I wanted to make another sculpture—this time using paper mache—of a wolf covered in sentences of the Idaho Senate Bill 1211—a simple yet stark figure that would address the influence of the legislation upon wolf presence.  
 

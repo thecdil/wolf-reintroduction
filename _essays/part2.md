@@ -5,9 +5,7 @@ layout: essay
 permalink: /part2.html
 ---
 
-<div class="iframe-wrapper">
-     <iframe src="https://www.youtube.com/embed/azjORb6PhZQ" frameborder="0" allowfullscreen></iframe>
-</div>
+{% include essay/video.html objectid="https://youtu.be/azjORb6PhZQ" caption=false width="full" %}
 
 From here, I breathed a sigh of relief and went back to finding sources. At the same time, I began meeting with CDIL about formatting the website and how to collect and display sources that were primarily online. In order to give them materials to work with and to finish my collage, I had to wrap up my research. Honestly, I could have collected sources forever—falling down rabbit holes of different viewpoints. I had to stop myself at 70+ sources. 
 

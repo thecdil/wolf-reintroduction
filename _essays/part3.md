@@ -5,9 +5,7 @@ layout: essay
 permalink: /part3.html
 ---
 
-<div class="iframe-wrapper">
-     <iframe src="https://www.youtube.com/embed/PNXzYmDh7SA" frameborder="0" allowfullscreen></iframe>
-</div>
+{% include essay/video.html objectid="https://youtu.be/PNXzYmDh7SA" caption=false width="full" %}
 
 Upon second inspection, I decided that it wasn't that bad, but definitely not what I was going for. Here, I came to another crossroad: keep the timeline, or ditch it? "I'll think about it," I decided, "but what to do about the wolves?" This was another element that confounded me, because I wasn't sure which wolves to include and when, how to schematize them, or how to design them. I was this close to printing out silhouettes, when my sister shamed me for even considering not drawing some element of the piece. While I was impatient to finalize it, I knew she was right. But what to draw? 
 
