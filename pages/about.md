@@ -1,7 +1,7 @@
 ---
-title: About Flori
+title: About the Creator
 layout: about
-permalink: /about-flori.html
+permalink: /about-creator.html
 # include CollectionBuilder info at bottom
 #credits: true
 # Edit the markdown on in this file to describe your collection
@@ -10,8 +10,6 @@ permalink: /about-flori.html
 
 {% include feature/image.html objectid="https://cdil.lib.uidaho.edu/wolf-reintroduction/objects/biography_photo.jpg" width=50 alt="Photo of Flori Tulli amidst the Palouse" caption="Photo of Flori Tulli amidst the Palouse"%}
 
-# About Flori 
+# About the Creator
 
-Flori Tulli is a University of Idaho graduate student in English with an emphasis in the Environmental Humanities. She has always been fascinated by ecotones, or places where human and nonhuman elements intersect and interact. Wolf reintroduction in the Pacific Northwest is an example of such process. 
-
-Her investigation of this topic focuses on the interconnectivity of historical, sociological, philosophical and ecological discourses surrounding wolf presence in Idaho. Information accessibility is also the forefront of her concern. With these objectives in mind, she has created a multimodal project to catalyze conversation and investigation about wolf reintroduction. 
+Flori Tulli has previously volunteered with the Pennsylvania Natural Lands Trust for 10 years, assisting with wildlife management efforts. She received her English and History BAs from Pennsylvania State University before moving to Idaho. Here at the University of Idaho, she completed her English MA with an emphasis in the Environmental Humanities. 
