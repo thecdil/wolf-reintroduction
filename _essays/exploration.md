@@ -17,8 +17,6 @@ The following semester, I learned more about the ecology of wolves and how art c
 
 During the Fall 2022 semester, I took Aleta Quinn’s class, ENVS 552: Environmental Philosophy, where we were introduced to the different perspectives and value systems pertaining to natural resources, including the presence of megafauna. 
 
-{% include essay/figure.html objectid="https://cdil.lib.uidaho.edu/wolf-reintroduction/objects/small/sculpture_picture_sm.jpg" alt="Flori Tulli posing with her 'Jaws of Life' sculpture" caption="Flori Tulli posing with her 'Jaws of Life' sculpture"%}
-
 Throughout my investigation of wolf reintroduction, I’m primarily interested in the interconnectivity of systems and discourses. As Alexa Weik von Mossner aptly puts it, "New nature writing [is] concerned with the disorderly and dirty 'edgelands' between human society and the natural wild, rather than with wilderness as separate space" (38). For this reason, I wanted to explore more dimensions to wolf reintroduction, finding edgelands between regional viewpoints—spaces that we define for wolves.  
 
 Unsurprisingly, the more I delved into this topic, the more complicated it became. I discovered a much wider breadth of sources: indigenous stewardship, hunter and ranchers’ concerns, conflicting predation statistics, and various goals for wolf management. Opponents raised legitimate issues with wolf presence—underreported predation on livestock, predation on pets, financial losses outweighing financial aid from government entities, behavioral changes to livestock and prey—which do not appear in major ecological news surrounding wolves ("Wolves Part 4 Unforeseen Impacts Caused by Wolves in Idaho"). 
