@@ -13,6 +13,8 @@ Brown, Andrew.  _Art & Ecology Now_. Thames & Hudson, 2014.
 
 Houser, Heather.  _Infowhelm : Environmental Art and Literature in an Age of Data_. Columbia University Press, 2020. 
 
+Hughes, Kieran. _Wolves and Trophic Cascades. YouTube_, 11 Apr. 2023, [youtu.be/Pjv_r8sBPhY](https://youtu.be/Pjv_r8sBPhY){:target="_blank" rel="noopener"}
+
 Legler, Gretchen.  _All the Powerful Invisible Things: A Sportswoman's Notebook_. Seal Press, 1995. 
 
 Palmedo, Philip F.  _Deep Affinities: Art and Science_, 2020.  
