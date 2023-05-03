@@ -10,7 +10,7 @@ Wolf... a word that carries a lot of weight, especially in the state of Idaho. O
 
 So why create a multimodal project? First and foremost, multimodality is the combination of visual, aural, written and kinesthetic modes of communication, used together to effectively explore and explain ideas. In the case of ecological art, this powerful combination can help to educate people about complex environmental issues. 
 
-We perceive the world through many simultaneous senses, which multimodality helps us express and explore. In the case of multimodality, Alex Weik von Mossner reflects upon the effectiveness of film: "The multimodal relationships between people, objects, landscapes, and our embodied brains are particularly complex in the case of film, which not only provides narrative (like literature) or visual information (like a painting) but also sound and, most importantly, motion" (53). For an excellent example of film's effective multimodality, I have included the animation "Wolves and Trophic Cascade" (2023), made by Kieran Hughes.
+We perceive the world through many simultaneous senses, which multimodality helps us express and explore. In the case of multimodality, Alex Weik von Mossner reflects upon the effectiveness of film: "The multimodal relationships between people, objects, landscapes, and our embodied brains are particularly complex in the case of film, which not only provides narrative (like literature) or visual information (like a painting) but also sound and, most importantly, motion" (53). For an excellent example of film's effective multimodality, I have included the animation "Wolves and Trophic Cascades" (2023), made by Kieran Hughes.
 
 {% include essay/video.html objectid="https://youtu.be/Pjv_r8sBPhY" caption=false %}
 
