@@ -16,5 +16,5 @@ On this website, you can explore this project's three components.
 
 The goal of these components is to show the various dimensions surrounding the wolf controversy: a coalescence of regional viewpoints and events stemming from the initial release of wolves in 1995.
 
-[Read the Essay &raquo;]({{ '/multimodality.html' | relative_url }}){:.display-6 .py-2 .px-3 .rounded .border .border-2 .border-dark .text-dark}
+[Read the Essay &raquo;]({{ '/multimodality.html' | relative_url }}){:.btn .btn-outline-dark .display-6 .fs-2}
 {:.my-5}
