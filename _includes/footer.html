@@ -8,6 +8,9 @@
             <p class="text-white"><small>{{ site.description }}</small></p>
             <nav>
                 <ul id="footer-nav" class="nav nav-pills ">
+                    <li class="nav-item">
+                        <a class="nav-link text-light{% if page.layout == 'essay' %} active{% endif %}" href="{{ '/multimodality.html' | relative_url }}">Essay</a>
+                    </li>
                     {%- assign navItems = site.data.config-nav | where_exp: 'item', 'item.dropdown_parent == nil' -%}
                     {% for nav in navItems %}
                     <li class="nav-item">
