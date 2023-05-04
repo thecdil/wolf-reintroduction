@@ -4,4 +4,4 @@ layout: browse
 permalink: /browse.html
 ---
 
-## Browse Collection Items
+# Browse Collection Items
