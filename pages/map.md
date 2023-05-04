@@ -6,4 +6,4 @@ permalink: /map.html
 
 ## Collection Map
 
-Explore the collection resources on the map. Click on a pin to see more information about the items.
+Explore the sources and where they originated on the map. Click on a pin to see more information about the items.
