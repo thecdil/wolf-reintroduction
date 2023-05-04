@@ -6,4 +6,4 @@ permalink: /timeline.html
 
 ## Collection Timeline
 
-Explore the collection resources by their date of creation.
+Browse the sources to see their context in history and how their stories and events unfold over time.
