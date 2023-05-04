@@ -12,10 +12,10 @@ So why create a multimodal project? First and foremost, multimodality is the com
 
 We perceive the world through many simultaneous senses, which multimodality helps us express and explore. In the case of multimodality, Alex Weik von Mossner reflects upon the effectiveness of film: "The multimodal relationships between people, objects, landscapes, and our embodied brains are particularly complex in the case of film, which not only provides narrative (like literature) or visual information (like a painting) but also sound and, most importantly, motion" (53). For an excellent example of film's effective multimodality, I have included the animation "Wolves and Trophic Cascades" (2023), made by Kieran Hughes.
 
-{% include essay/video.html objectid="https://youtu.be/Pjv_r8sBPhY" caption=false %}
+{% include feature/video.html objectid="https://youtu.be/Pjv_r8sBPhY" caption=false %}
 
 Rather than explain trophic cascade through a lengthy research paper, Hughes has schematized the relationship of wolves to their ecosystems in a simple yet striking visualization, translating a complex scientific topic to wider audiences. Similar to the multiple modes used in movies and animations, a multimodal project--and ecological art for that matter--should also provide numerous channels for understanding and connecting information. 
 
 With these objectives in mind, I wanted to create a multimodal project that people will see outside of an academic sphere. Rather than pushing viewers further into their current points of view, I aim to foster more conversation, investigation and overall understanding of wolf reintroduction in Idaho.
 
-{% include essay/video.html objectid="https://youtu.be/3BSsLH3Zcrw" caption=false %}
+{% include feature/video.html objectid="https://youtu.be/3BSsLH3Zcrw" caption=false %}

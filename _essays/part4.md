@@ -5,7 +5,7 @@ layout: essay
 permalink: /part4.html
 ---
 
-{% include essay/video.html objectid="https://youtu.be/ykhLVeEXBzw" caption=false width="full" %}
+{% include feature/video.html objectid="https://youtu.be/ykhLVeEXBzw" caption=false width="full" %}
 
 Visually-speaking, there were so many better options to include in Montana's space. Something had to be done, and it wasn't going to be easy. Trying to peel or cut off the timeline proved fruitless. Ultimately, I decided to sand it off.
 
@@ -17,4 +17,4 @@ You may be thinking, "Wow, this process was probably a lot harder than writing a
 
 Yes. Yes it was. I would go as far to say that this process was as complex and messy as wolf reintroduction itself, and maybe that's the point. This controversy has no easy answers, and it needs a lot of work, collaboration and creativity to solve. Sometimes the right way--at least, the way my passion led me--isn't the easy way. But it's worth it, the journey of growth, creation and experimentation.
 
-{% include essay/figure.html objectid="https://cdil.lib.uidaho.edu/wolf-reintroduction/objects/pose_with_final_collage.jpg" caption="Flori poses with her final collage" %}
+{% include feature/image.html objectid="https://cdil.lib.uidaho.edu/wolf-reintroduction/objects/pose_with_final_collage.jpg" caption="Flori poses with her final collage" %}

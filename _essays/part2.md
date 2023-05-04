@@ -5,7 +5,7 @@ layout: essay
 permalink: /part2.html
 ---
 
-{% include essay/video.html objectid="https://youtu.be/azjORb6PhZQ" caption=false width="full" %}
+{% include feature/video.html objectid="https://youtu.be/azjORb6PhZQ" caption=false width="full" %}
 
 After finishing the base, I breathed a sigh of relief and went back to finding sources. At the same time, I began meeting with CDIL about formatting the website and how to collect and display sources that were primarily digital. In order to give them materials to work with and to finish my collage, I had to wrap up my research. Honestly, I could have collected sources forever--falling down rabbit holes of different viewpoints. I had to stop myself at 60+ sources.
 

@@ -5,7 +5,7 @@ layout: essay
 permalink: /part1.html
 ---
 
-{% include essay/video.html objectid="https://youtu.be/Flzn3uMWs2w" caption=false width="full" %}
+{% include feature/video.html objectid="https://youtu.be/Flzn3uMWs2w" caption=false width="full" %}
 
 Creating an art piece and website was definitely taking the road less traveled by--and gratefully one supported by my advisors and mentors. Throughout this process, there were ups and downs, twists and turns, disorientation, and eventual clarity. In retrospect, I believe that straddling between the expectations of a graduate student in English and an ecological artist made encompassing both accuracy and instinctual vision much harder. As a writer, I want to create a nuanced, well-researched discourse--as an artist, I prefer creating simpler schematizations of figures, capturing their raw essence. To use multiple modes effectively, I would need to blur the lines between these different expectations and get out of my comfort zones.
 
@@ -15,13 +15,13 @@ Stepping back, I had a realistic conversation with myself and decided that each 
 
 This decision helped immensely. Not only was I able to focus my research, but I was also able to provide CDIL with a more concrete outline of the website--primarily the interactive map.
 
-{% include essay/figure.html objectid="https://cdil.lib.uidaho.edu/wolf-reintroduction/objects/small/grad_project_webpage_outline_sm.jpg" link="https://thecdil.github.io/wolf-reintroduction/items/wolf_067.html" alt="A general outline of how CDIL and Flori would design this website" caption="A general outline of how CDIL and Flori would design this website"%}
+{% include feature/image.html objectid="https://cdil.lib.uidaho.edu/wolf-reintroduction/objects/small/grad_project_webpage_outline_sm.jpg" link="https://thecdil.github.io/wolf-reintroduction/items/wolf_067.html" alt="A general outline of how CDIL and Flori would design this website" caption="A general outline of how CDIL and Flori would design this website"%}
 
 From here, I compiled sources for each of Idaho's seven regions--regions based on the Idaho Department of Fish and Game (IDFG)'s hunting regions (Panhandle, Clearwater, Southwest, Magic Valley, Southeast, Upper Snake, Salmon), because those are what determine hunting and trapping seasons, number of tags, and other interactions with wildlife presence.
 
 After redrawing the base and mapping out regions and locations (for both Idaho and Montana, just in case I would integrate Montana sources), I decided to use the Senate Bill 1211 as the base of Idaho, since the policy affects the entire state. I wanted the words to literally shape the landscape, so I cut each sentence and glued them down in a spiral pattern, working from the top of the state down and into the middle.
 
-{% include essay/figure.html objectid="https://cdil.lib.uidaho.edu/wolf-reintroduction/objects/small/sb1211_sm.jpg" link="https://thecdil.github.io/wolf-reintroduction/items/wolf_050.html" alt="2021 Legislation: Senate Bill 1211" caption="2021 Legislation: Senate Bill 1211"%}
+{% include feature/image.html objectid="https://cdil.lib.uidaho.edu/wolf-reintroduction/objects/small/sb1211_sm.jpg" link="https://thecdil.github.io/wolf-reintroduction/items/wolf_050.html" alt="2021 Legislation: Senate Bill 1211" caption="2021 Legislation: Senate Bill 1211"%}
 
 As I did this, I had an additional copy of the bill for reference, highlighting each line that I glued down to make sure nothing got mixed up. After a very lengthy process, the final challenge was fitting the last page of the bill--I ended up using the passage bellow as Idaho's border, because it contained the most potent and relevant information to wolf management:
 
