@@ -1,6 +1,8 @@
 # wolf-reintroduction
 
-Wolf Reintroduction in Idaho: A multimodal history, by Flori Tulli
+Wolf Reintroduction: The Return of Canis Lupus to Idaho, by Flori Tulli, 2023
+
+<https://cdil.lib.uidaho.edu/wolf-reintroduction>
 
 ## Notes
 
